@@ -116,7 +116,6 @@ Eğer sistem ilk kez kurulacaksa, firstDockerInstallation/ klasörü içerisinde
 ├── read_rag.py             # RAG sistemi
 ├── graph_agent.py          # Grafik destekli analiz
 ├── image_selector.py       # Görsel analiz
-├── gemma.py                # gemma görsel LLM bağlantısı
 ├── user_database.py        # Kullanıcı yönetimi
 ├── auth_database.py        # Rol erişim yönetimi
 ├── templates/              # HTML sayfaları
