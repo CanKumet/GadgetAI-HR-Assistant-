@@ -98,13 +98,6 @@ COPY public.users (id, username, password, fullname, email, salary, department, 
 9	eren.berk	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Eren Berk	eren.berk@example.com	120000	IT	2025-03-20 10:06:58.33
 10	doğan.çevik	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Doğan Çevik	dogan.cevik@example.com	120000	HR	2025-03-20 10:06:58.33
 11	ahmet.kara	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Ahmet Kara	ahmet.kara@example.com	120000	IT	2025-03-20 10:06:58.33
-12	emirhan.kaya	4f32044a655f82e8582adeea64dbdf11cba810b8790e6ee623d28ad3a75980734	Emirhan Kaya	emirhan.kaya@igairport.aero	120000	IT	2025-03-24 09:32:55.34
-13	arda.güler	0d4c31fe7b06cb5f6cb5b420115a1c67ce3d5b9d5b44dc85ec9d2fd6de17bee39	Arda Güler	arda.guler@igairport.aero	120000	HR	2025-03-24 09:46:59.923
-14	batuhan.çelik	9a172b9ef802ba32c048ab3ec39478eb7baba0c488b6c0fb8bdc8574d445f6	Batuhan Çelik	batuhan.celik@igairport.aero	1083456	IT	2025-03-24 10:19:20.07
-15	doğukan.günay	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Doğukan Günay	dogukan.gunay@igairport.aero	120000	IT	2025-03-24 14:05:23.477
-16	ebubekir.erkaya	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Ebubekir Erkaya	ebubekir.erkaya@igairport.aero	120000	IT	2025-03-24 14:07:33.497
-17	cengiz.kaya	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Cengiz Kaya	cengiz.kaya@igairport.aero	94224	Finance	2025-03-26 14:01:34.307
-18	görkem.çetin	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Görkem Çetin	gorkem.cetin@igairport.aero	200000	IT	2025-03-27 13:58:23.377
 1	can.kumet	8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92	Can Kümet	can.kumet@example.com	150000	IT	2025-03-20 10:06:58.33
 \.
 
